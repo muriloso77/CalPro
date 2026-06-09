@@ -1,0 +1,6 @@
+{
+  "name": "CalPro",
+  "description": "Interactive React Native Expo Mobile Simulator & Source Code Hub for a secure authenticated calculator with Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
